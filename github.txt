@@ -5,3 +5,5 @@ Github permet de :
 - Partager des morceaux de code en ligne à l'aide de "gists" ;
 -Proposer des modifications de code à d'autres repositories en faisant des "pull requests" ;
 -Et même récupérer du code depuis un autre repository.
+
+Le site web de github est https://github.com/
