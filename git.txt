@@ -1,0 +1,2 @@
+Git est un logiciel qui permet de versionner son code. 
+Git est un modele distribue.  
